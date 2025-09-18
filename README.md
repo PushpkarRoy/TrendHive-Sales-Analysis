@@ -51,7 +51,6 @@ The project provides deep insights into **sales performance, product trends, and
 ## 📷 Dashboard Preview
 <img width="581" height="579" alt="Dashboard" src="https://github.com/user-attachments/assets/fc94d24b-fd3b-4b5e-8ca2-a6905ef6e4fe" />
 
-
 ---
 
 ## 📎 Conclusion
