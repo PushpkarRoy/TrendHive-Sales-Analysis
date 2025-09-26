@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Visualization-Interactive%20Dashboard-2D8CFF">
 </p>
 
----
+--- 
 
 ## 🚀 Project Overview 
 This **Power BI Sales Dashboard** is built using **10+ interconnected tables** with over **20K+ records**.  
