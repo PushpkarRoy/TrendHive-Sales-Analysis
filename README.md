@@ -12,7 +12,7 @@
 This **Power BI Sales Dashboard** is built using **10+ interconnected tables** with over **20K+ records**.  
 The project provides deep insights into **sales performance, product trends, and customer behavior** to support **data-driven business growth**.
 
----
+--- 
 
 ## 🎯 Key Insights & Features
 - 📈 **Total Sales:** 126M | **Gross Profit:** 53K | **Total Units Sold:** 4M  
