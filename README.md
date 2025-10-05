@@ -42,7 +42,7 @@ The project provides deep insights into **sales performance, product trends, and
 ## 📌 Business Value
 ✅ Helps management identify **top-performing products & sales reps**  
 ✅ Finds **most profitable weekdays** to run offers and campaigns  
-✅ Guides strategy to **reduce costs on low-performing subcategories**  
+✅ Guides strategy to **reduce costs on low-performing subcategories**   
 ✅ Supports **business growth by aligning sales & marketing**  
 ✅ Enables leadership to track **quarterly revenue trends**  
 
