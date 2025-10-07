@@ -25,7 +25,7 @@ The project provides deep insights into **sales performance, product trends, and
   - Extra & Regular categories fill the remaining share.  
 - 📅 **Best Performing Weekdays:** Tuesday–Friday (≈23M sales each)  
 - 📉 **Low Performing Days:** Sunday (only 6M, just 5% of total weekly sales).  
-- 📆 **Quarterly Trends:** Q2 showed the highest growth (**32.8M revenue**) before slight decline in Q4.   
+- 📆 **Quarterly Trends:** Q2 showed the highest growth (**32.8M revenue**) before slight decline in Q4.
 - 🎨 **Color-wise Revenue:** Blue leads with **54.4M (43%)** while Green and Red contribute ~20% each.  
 - 🌍 **Regional Insights:** Germany & Berlin alone contributed over **60% of European sales**.  
 - 💰 **Cost Reduction Opportunities:** Identified underperforming sub-categories that consume resources but contribute **<5% of revenue**.  
