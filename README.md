@@ -28,7 +28,7 @@ The project provides deep insights into **sales performance, product trends, and
 - 📆 **Quarterly Trends:** Q2 showed the highest growth (**32.8M revenue**) before slight decline in Q4.
 - 🎨 **Color-wise Revenue:** Blue leads with **54.4M (43%)** while Green and Red contribute ~20% each.  
 - 🌍 **Regional Insights:** Germany & Berlin alone contributed over **60% of European sales**.  
-- 💰 **Cost Reduction Opportunities:** Identified underperforming sub-categories that consume resources but contribute **<5% of revenue**.  
+- 💰 **Cost Reduction Opportunities:** Identified underperforming sub-categories that consume resources but contribute **<5% of revenue**.   
 
 ---
 
