@@ -54,7 +54,7 @@ The project provides deep insights into **sales performance, product trends, and
 ---
 
 ## 📎 Conclusion
-This project demonstrates how **Power BI + SQL + Business Thinking** can transform raw data into **actionable insights**.  
+This project demonstrates how **Power BI + SQL + Business Thinking** can transform raw data into **actionable insights**. 
 The dashboard provides clear recommendations for **growth, cost optimization, and smarter decision-making**.
 
 ---
