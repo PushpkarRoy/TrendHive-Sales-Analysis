@@ -22,7 +22,7 @@ The project provides deep insights into **sales performance, product trends, and
 - 📊 **Category Analysis:**   
   - General Category → **44.79M (65%)** of total sales
   - Special Category → **8.12M (12%)**  
-  - Extra & Regular categories fill the remaining share.  
+  - Extra & Regular categories fill the remaining share. 
 - 📅 **Best Performing Weekdays:** Tuesday–Friday (≈23M sales each)  
 - 📉 **Low Performing Days:** Sunday (only 6M, just 5% of total weekly sales).  
 - 📆 **Quarterly Trends:** Q2 showed the highest growth (**32.8M revenue**) before slight decline in Q4.
