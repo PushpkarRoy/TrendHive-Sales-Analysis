@@ -19,7 +19,7 @@ The project provides deep insights into **sales performance, product trends, and
 - 🏆 **Best Seller Identified:** Ellen Woody with **109K+ units sold** (≈27% of total sales team contribution).      
 - 🛒 **Top Product:** *Quad* generated **32M revenue (~25% of total sales revenue)**.    
 - 💡 **Sales Growth:** Insights helped in achieving **15%+ potential increase in sales** by focusing on high-performing categories.   
-- 📊 **Category Analysis:**    
+- 📊 **Category Analysis:**      
   - General Category → **44.79M (65%)** of total sales  
   - Special Category → **8.12M (12%)**  
   - Extra & Regular categories fill the remaining share.    
