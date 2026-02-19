@@ -13,7 +13,7 @@ This **Power BI Sales Dashboard** is built using **10+ interconnected tables** w
 The project provides deep insights into **sales performance, product trends, and customer behavior** to support **data-driven business growth**. 
 
 ---      
-        
+           
 ## 🎯 Key Insights & Features        
 - 📈 **Total Sales:** 126M | **Gross Profit:** 53K | **Total Units Sold:** 4M 
 - 🏆 **Best Seller Identified:** Ellen Woody with **109K+ units sold** (≈27% of total sales team contribution).      
